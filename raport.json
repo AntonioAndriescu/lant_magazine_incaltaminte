@@ -1,0 +1,119 @@
+[
+  {
+    "id": 101,
+    "marime": 43,
+    "cantitate": 12,
+    "producator": "Nike",
+    "denumire": "Huarache",
+    "pret": 223.45,
+    "disponibilitate": true
+  },
+  {
+    "id": 102,
+    "marime": 43,
+    "cantitate": 12,
+    "producator": "Adidas",
+    "denumire": "Superstar",
+    "pret": 464.0,
+    "disponibilitate": true
+  },
+  {
+    "id": 103,
+    "marime": 43,
+    "cantitate": 12,
+    "producator": "Nike",
+    "denumire": "Airmax",
+    "pret": 989.99,
+    "disponibilitate": true
+  },
+  {
+    "id": 104,
+    "marime": 43,
+    "cantitate": 12,
+    "producator": "Nike",
+    "denumire": "Jordan 1",
+    "pret": 1500.0,
+    "disponibilitate": true
+  },
+  {
+    "id": 105,
+    "marime": 43,
+    "cantitate": 12,
+    "producator": "Nike",
+    "denumire": "Jordan 3",
+    "pret": 1234.45,
+    "disponibilitate": true
+  },
+  {
+    "id": 106,
+    "marime": 40,
+    "cantitate": 45,
+    "producator": "Adidas",
+    "denumire": "Superstar",
+    "pret": 464.0,
+    "disponibilitate": true
+  },
+  {
+    "id": 107,
+    "marime": 40,
+    "cantitate": 7,
+    "producator": "Nike",
+    "denumire": "Jordan 3",
+    "pret": 1234.45,
+    "disponibilitate": true
+  },
+  {
+    "id": 123,
+    "marime": 48,
+    "cantitate": 100,
+    "producator": "Puma",
+    "denumire": "ceva",
+    "pret": 10.0,
+    "disponibilitate": true
+  },
+  {
+    "id": 109,
+    "marime": 47,
+    "cantitate": 3,
+    "producator": "Adidas",
+    "denumire": "Superstar",
+    "pret": 464.0,
+    "disponibilitate": true
+  },
+  {
+    "id": 110,
+    "marime": 42,
+    "cantitate": 3,
+    "producator": "Nike",
+    "denumire": "Jordan 3",
+    "pret": 1234.45,
+    "disponibilitate": true
+  },
+  {
+    "id": 111,
+    "marime": 44,
+    "cantitate": 0,
+    "producator": "Nike",
+    "denumire": "Jordan 3",
+    "pret": 1234.45,
+    "disponibilitate": false
+  },
+  {
+    "id": 112,
+    "marime": 45,
+    "cantitate": 11,
+    "producator": "Nike",
+    "denumire": "Jordan 3",
+    "pret": 1234.45,
+    "disponibilitate": true
+  },
+  {
+    "id": 113,
+    "marime": 45,
+    "cantitate": 0,
+    "producator": "Adidas",
+    "denumire": "Superstar",
+    "pret": 464.0,
+    "disponibilitate": false
+  }
+]
